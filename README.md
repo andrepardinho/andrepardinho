@@ -6,26 +6,26 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andrepardinho&show_icons=true&theme=github_dark"
+    srcset="https://github-readme-stats-git-master-andre-pardinhos-projects.vercel.app/api?username=andrepardinho&show_icons=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andrepardinho&show_icons=true"
+    srcset="github-readme-stats-git-master-andre-pardinhos-projects.vercel.app/api?username=andrepardinho&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="mystats" height="180em" class="status-img" src="https://github-readme-stats.vercel.app/api?username=andrepardinho&show_icons=true" />
+  <img alt="mystats" height="180em" class="status-img" src="https://github-readme-stats-git-master-andre-pardinhos-projects.vercel.app/api?username=andrepardinho&show_icons=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&theme=github_dark"
+    srcset="https://github-readme-stats-git-master-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true"
+    srcset="https://github-readme-stats-git-master-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="mylangs" height="180em" class="status-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&text_color=38bdae" />
+  <img alt="mylangs" height="180em" class="status-img" src="https://github-readme-stats-git-master-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&text_color=38bdae" />
 </picture>
 
 <div style="display: inline_block"><br>
