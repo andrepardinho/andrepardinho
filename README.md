@@ -10,26 +10,26 @@
 <div>
 <picture>
   <source
-    srcset="https://github-readme-stats1-andre-pardinhos-projects.vercel.app//api?username=andrepardinho&show_icons=true&theme=github_dark&include_all_commits=false"
+    srcset="https://github-readme-stats1-andre-pardinhos-projects.vercel.app//api?username=andrepardinho&show_icons=true&theme=github_dark&include_all_commits=false&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api?username=andrepardinho&show_icons=true&theme=default&include_all_commits=false"
+    srcset="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api?username=andrepardinho&show_icons=true&theme=default&include_all_commits=false&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="mystats" height="180em" class="status-img" src="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api?username=andrepardinho&show_icons=true&theme=default&include_all_commits=false"/>
+  <img alt="mystats" height="180em" class="status-img" src="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api?username=andrepardinho&show_icons=true&theme=default&include_all_commits=false&rank_icon=github"/>
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&theme=github_dark&include_all_commits=true"
+    srcset="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&theme=github_dark&include_all_commits=true&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&theme=default&include_all_commits=true"
+    srcset="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&theme=default&include_all_commits=true&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img alt="mylangs" height="180em" class="status-img" src="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&theme=default&include_all_commits=true"/>
+  <img alt="mylangs" height="180em" class="status-img" src="https://github-readme-stats1-andre-pardinhos-projects.vercel.app/api/top-langs/?username=andrepardinho&layout=compact&show_icons=true&theme=default&include_all_commits=true&rank_icon=github"/>
 </picture>
 </div>
 
