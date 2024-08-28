@@ -4,8 +4,9 @@
   ## Olá! Eu sou o André Pardinho, estudante de Ciência da Computação!👋
 </div>
 
-- 📝 No momento, meus estudos se concentram em linguagem C, algoritmos, lógica e arquitetura de computadores.
-- 💻 Paralelamente, pratico UX Design, HTML e CSS.
+- 📝 Atualmente, estou me aprofundando em linguagem C e JavaScript para melhorar minhas habilidades em desenvolvimento de software. Também estudo algoritmos e lógica, fundamentais para resolver problemas complexos, além de arquitetura de computadores, que me ajuda a entender melhor como o hardware interage com o software.
+- 💻 Além disso, tenho explorado UX Design para aprimorar a experiência do usuário nos meus projetos, bem como HTML e CSS para criar interfaces web intuitivas e responsivas.
+
 
 <div>
 <picture>
@@ -37,6 +38,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 </div>
